@@ -7,7 +7,7 @@ his project is an AI-powered agent that analyzes company annual reports (PDF/DOC
 
 🧩 Chunking & Embedding: Splits documents into manageable chunks and embeds them using all-MiniLM-L6-v2
 
-🔎 Vector Search: Retrieves the most relevant document sections via vector similarity (ChromaDB or FAISS)
+🔎 Vector Search: Retrieves the most relevant document sections via vector similarity (ChromaDB)
 
 🤖 Local LLM Integration: Uses ollama to generate risk summaries and scores using models like llama3
 

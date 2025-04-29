@@ -14,6 +14,7 @@ his project is an AI-powered agent that analyzes company annual reports (PDF/DOC
 📈 Risk Scoring: Returns structured output with identified risks, explanations, and an overall risk score
 
 💻 Tech Stack
+
 Python
 
 Ollama (Llama 3 or other models)
@@ -27,6 +28,7 @@ Sentence Transformers
 ChromaDB
 
 📦 How to Use
+
 Clone the repo
 
 Install dependencies (see req.txt)

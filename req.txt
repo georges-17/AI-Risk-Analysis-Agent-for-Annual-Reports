@@ -1,0 +1,7 @@
+ollama
+chromadb
+langchain
+sentence-transformers
+python-dotenv
+unstructured
+tqdm
